@@ -1,0 +1,7 @@
+textarea[name="name"] {
+    display: inline;
+}
+
+input[type="submit"] {
+    display: inline;
+}
